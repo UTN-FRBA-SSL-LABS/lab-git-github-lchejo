@@ -652,7 +652,7 @@ RESPUESTA_P5=c
 
 **P6.** ¿Cuál es la diferencia entre `git fetch` y `git pull`?
 
-a) Son equivalentes; `git pull` es simplemente un alias de `git fetch`
+a) Son equivalentes; `git pull` es simplemente un alias de `git fetch` 
 
 b) `git fetch` descarga los cambios remotos sin tocar el working directory; `git pull` hace `fetch` + `merge` en un solo paso
 
